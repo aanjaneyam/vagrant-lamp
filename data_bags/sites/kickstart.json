@@ -1,0 +1,9 @@
+{
+    "id": "kickstart",
+    "host": "kickstart.dev",
+    "aliases": [
+        "www.kickstart.dev",
+        "kickstarttest.com",
+        "www.kickstarttest.com"
+    ]
+}
